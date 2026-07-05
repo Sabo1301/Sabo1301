@@ -1,20 +1,30 @@
-## Hi there 👋
+<div align="center">
 
+<img src="particles-banner.svg" width="100%" alt="particles banner"/>
 
-<!--
-**Sabo1301/Sabo1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A9C7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Allane;Engineering+student+%F0%9F%8E%93;GIS+%2F+Geomatics+enthusiast+%F0%9F%8C%8D;Python+%7C+Web+%7C+Data" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
 
+- 🎓 Engineering student, passionate about computer science
+- 🌍 Learning **GIS / Geomatics** (Geographic Information Systems)
+- 🐍 Main skills in **Python**, getting started with **Web development**
+- 🌐 My website: [allane.xyz](https://allane.xyz)
 
-Test on teste blablablablablabla
+## 🚀 Featured Projects
+
+- 🛰️ **Project name** – short description
+- 🗺️ **Project name** – short description
+- 🐍 **Project name** – short description
+
+## 📊 Contribution Activity
+
+<!-- You can plug in a GitHub stats card here later, e.g. github-readme-stats -->
+
+## 🤝 Connect with Me
+
+- 🌐 [allane.xyz](https://allane.xyz)
+- 🐦 [Twitter/X](#)
+- 💼 [LinkedIn](#)
